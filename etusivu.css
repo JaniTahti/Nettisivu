@@ -34,3 +34,11 @@ h1 {
 .tab a:hover {
   color: #de046a;
 }
+
+.line {
+  margin-top: 50px;
+  background-color: white;
+  width: 1912px;
+  height: 5px;
+}
+
