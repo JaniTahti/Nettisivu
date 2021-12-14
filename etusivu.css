@@ -63,29 +63,3 @@
   background-color: inherit;
   font-size: 20px;
 }
-
-section {
-    margin: 10% 0 2% 20%;
-    color: white;
-}
-
-article {
-      margin: 5% 0 2% 0;
-      color: white;
-  }
-
-label {
-    margin: 1% 0 0 0;
-}
-
-input {
-    margin: 1% 0 0 0;
-    background: white;
-    color: black;
-}
-
-textarea {
-    margin: 1% 0 0 0;
-    background: white;
-    color: black;
-}
